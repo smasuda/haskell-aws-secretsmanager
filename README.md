@@ -1,2 +1,8 @@
 # haskell-aws-secretsmanager
-An example of how  to get secrets from AWS secrets manager in haskell
+
+A sample code to show how to retrieve secret values from AWS SecretsManager, using [Network.AWS.SecretsManager](http://hackage.haskell.org/package/amazonka-secretsmanager-1.6.1/docs/Network-AWS-SecretsManager.html).
+
+
+## how to run
+
+Edit `Main.hs` to put your secret name, and `stack run`.
