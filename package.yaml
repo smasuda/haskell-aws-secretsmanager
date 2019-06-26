@@ -26,6 +26,8 @@ dependencies:
 - transformers
 - text
 - amazonka
+- aeson
+- string-conversions
 
 library:
   source-dirs: app
