@@ -39,6 +39,7 @@ packages:
 # (e.g., acme-missiles-0.3)
 extra-deps:
 - amazonka-secretsmanager-1.6.1
+- cached-io-1.1.0.0@sha256:d194188c6b0f6cebdf0024fcf516fd49344ad28660a347ee3298b211c5008bc2,1755
 
 # Override default flag values for local packages and extra-deps
 # flags: {}
